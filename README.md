@@ -11,7 +11,7 @@ To write a program to predict the marks scored by a student using the simple lin
 
 ```
 /*
-Program to implement univariate Linear Regression to fit a straight line using least squares.
+
 Developed by: L Ganesh Kanna 
 RegisterNumber: 212225230072
 */
